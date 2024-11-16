@@ -1,0 +1,15 @@
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\bin\Debug\net9.0\3 variabler.exe
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\bin\Debug\net9.0\3 variabler.deps.json
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\bin\Debug\net9.0\3 variabler.runtimeconfig.json
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\bin\Debug\net9.0\3 variabler.dll
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\bin\Debug\net9.0\3 variabler.pdb
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.AssemblyInfoInputs.cache
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.AssemblyInfo.cs
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.csproj.CoreCompileInputs.cache
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.sourcelink.json
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.dll
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\refint\3 variabler.dll
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.pdb
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\3 variabler.genruntimeconfig.cache
+C:\Users\nicth\Documents\GitHub\3-Variables\3 variabler\obj\Debug\net9.0\ref\3 variabler.dll
